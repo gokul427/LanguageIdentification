@@ -1,0 +1,14 @@
+Data Science is the combination of statistics, mathematics, programming, problem-solving, 
+capturing data in ingenious ways, the ability to look at things differently, and 
+the activity of cleansing, preparing and aligning the data.
+We present the popular game Tic Tac Toe game implemented using client and server technique with stream sockets.
+The program consist of Tic Tac Toe Server application that allows two client application to connect to the server and play the game.
+We have made use of Swings as front end for graphical user interface
+We used multithreaded programming as there must be synchronization between players and both of them should play concurrently.
+When a student wants to get accommodated in a hostel at first he needs to be a student of that college having unique student id .
+He needs to check whether the rooms are available or not. If the rooms are available then he can get accommodated in that room looking out the capacity.
+For an hostel there must be hostel mess so that students can have healthy food.
+There must be Hostel warden and other employees to look out the hostel.
+There must be Visiting timings,visitor id  for the parents during which they can meet their children.
+Student must pay the fees for accommodation,there must be fees status to check whether the fees is paid or not.  
+Maintaining students database in an efficient manner.
